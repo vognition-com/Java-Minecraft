@@ -1,0 +1,25 @@
+[
+	{
+		"modid":		"MZ Voice Control",
+		"name":			"Mike Zipf's Voice Control Mod",
+		"description":	"A mod where you can talk to things and they don't ignore you!",
+		"version":		"Pre Alpha",
+		"mcversion":	"1.7.10",
+		"url": 			"http://www.minecraftforum.net/members/MrrGingerNinja",
+		"updateUrl": 	"",
+		"authorList": 	
+			[
+						"Masterofthethird"
+			],
+		"credits": 		"Me mum",
+		"logoFile": 	"",
+		"screenshots":
+			[
+			
+			],
+		"dependencies": 
+			[
+			
+			]
+	}
+]

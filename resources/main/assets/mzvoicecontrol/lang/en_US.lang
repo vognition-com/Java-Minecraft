@@ -1,0 +1,5 @@
+item.mzVoiceControl_phoneItem.name=Telephone
+block.mzVoiceControl_testBlock.name=TestBlock
+
+msg.phoneRecordOn.txt=Recording is on
+msg.phoneRecordOff.txt=Recording is off
